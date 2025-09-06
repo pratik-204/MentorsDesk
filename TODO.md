@@ -1,0 +1,3 @@
+- [x] Update .header in src/App.css to position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; border-bottom: 1px solid white;
+- [x] Add padding-top: 50px to .main in src/App.css to avoid content being hidden behind fixed header.
+- [x] Adjust .main height to calc(100vh - 50px) if needed.
